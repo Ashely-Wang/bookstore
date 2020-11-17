@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "van-field": "/wxcomponents/vant/field/index"
+  }
+}
